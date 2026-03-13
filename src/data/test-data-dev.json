@@ -1,0 +1,26 @@
+{
+    "case_1": {
+        "username": "dev_john_doe",
+        "email": "john.doe@dev.playwrightvn.com",
+        "gender": "Male",
+        "hobbies": "Reading"
+    },
+    "case_2": {
+        "username": "dev_jane_smith",
+        "email": "jane.smith@dev.playwrightvn.com",
+        "gender": "Female",
+        "hobbies": "Reading, Music"
+    },
+    "case_3": {
+        "username": "dev_alex_nguyen",
+        "email": "alex.nguyen@dev.playwrightvn.com",
+        "gender": "Male",
+        "hobbies": "Reading, Music, Sports"
+    },
+    "case_4": {
+        "username": "dev_lisa_tran",
+        "email": "lisa.tran@dev.playwrightvn.com",
+        "gender": "Female",
+        "hobbies": "Sports"
+    }
+}

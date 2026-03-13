@@ -1,0 +1,18 @@
+{
+    "case_1": {
+        "username": "dev_john_doe",
+        "gender": "Male"
+    },
+    "case_2": {
+        "username": "dev_jane_smith",
+        "gender": "Female"
+    },
+    "case_3": {
+        "username": "dev_alex_nguyen",
+        "gender": "Male"
+    },
+    "case_4": {
+        "username": "dev_lisa_tran",
+        "gender": "Female"
+    }
+}
